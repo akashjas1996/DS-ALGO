@@ -12,7 +12,12 @@ flag - (int) to check whether the number is present or not.
 
 Total number of loops used :
 1st loop - To get the input elements and store them in an array.
-2nd loop - To compare each element with the searched element.*/
+2nd loop - To compare each element with the searched element.
+
+################################################################################
+
+ITERATIVE FORM
+***************/
 
 
 #include<stdio.h>
@@ -38,3 +43,5 @@ int main(){
 	}
 	return(0);
 }
+
+
